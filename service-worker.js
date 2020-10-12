@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tourizto/precache-manifest.c7b9532a333348df053895279e243221.js"
+  "/tourizto/precache-manifest.d5b8d56a6f02242e12848d444d920ec0.js"
 );
 
 self.addEventListener('message', (event) => {
