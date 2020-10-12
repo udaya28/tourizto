@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tourizto/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tourizto/static/js/main.b8fb9888.chunk.js",
+    "main.js.map": "/tourizto/static/js/main.b8fb9888.chunk.js.map",
+    "runtime-main.js": "/tourizto/static/js/runtime-main.cf5ff57a.js",
+    "runtime-main.js.map": "/tourizto/static/js/runtime-main.cf5ff57a.js.map",
+    "static/js/2.377213c8.chunk.js": "/tourizto/static/js/2.377213c8.chunk.js",
+    "static/js/2.377213c8.chunk.js.map": "/tourizto/static/js/2.377213c8.chunk.js.map",
+    "index.html": "/tourizto/index.html",
+    "precache-manifest.c7b9532a333348df053895279e243221.js": "/tourizto/precache-manifest.c7b9532a333348df053895279e243221.js",
+    "service-worker.js": "/tourizto/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tourizto/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.377213c8.chunk.js.LICENSE.txt": "/tourizto/static/js/2.377213c8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tourizto/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf5ff57a.js",
+    "static/js/2.377213c8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b8fb9888.chunk.js"
+  ]
+}
