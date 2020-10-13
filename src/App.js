@@ -1,13 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-
+import {Header} from './components/header/header.component'
 function App() {
+  // window.onscroll = function() {console.log(document.documentElement.scrollTop)};
   return (
     <div className="App">
-      <h1>Hello World!</h1>
+      <Header/>
+      
     </div>
-  );
+  ); 
 }
 
 export default App;

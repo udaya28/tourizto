@@ -1,0 +1,40 @@
+/* #navbarNav{
+    display: flex;
+    justify-content: space-between;
+} */
+
+.icon-1{
+  font-size: 40px;
+}
+.navbar-brand{
+  padding: 0px;
+}
+@media (max-width: 660px) {
+  .icon-1{
+    font-size: 35px;
+  }
+  .navbar-toggler-icon {
+    font-size: 15px;
+  }
+  
+
+}
+
+ul.navbar-nav {
+  width: 100%;
+  justify-content: space-evenly !important;
+}
+.fix-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.nav-link{
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #2f2e2f;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
