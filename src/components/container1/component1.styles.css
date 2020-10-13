@@ -18,17 +18,20 @@
     justify-content: center;
     font-size: 12px;
     padding: 11px 35px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
 
 }
 .con1 input{
     padding: 8px 15px;
-    width: 30%;
+    width: 35%;
     border:none;
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
     outline-color: none !important;
     outline-style: none !important;
     outline-width: 0px !important;
+    /* font-weight: 600; */
    
 }
 
@@ -45,10 +48,13 @@
     margin: 0px;
     border-top-right-radius: 25px;
     border-bottom-right-radius: 25px;
-    width: 15%;
+    width: 10%;
     outline-color: none !important;
     outline-style: none !important;
     outline-width: 0px !important;
+    background-color: #572F59;
+    color: white;
+    font-weight: 700;
 }
 /* 
 @media only screen and (max-width: 600px) {
