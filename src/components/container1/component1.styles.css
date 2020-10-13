@@ -1,4 +1,9 @@
 .con1{
-    height: 100vh;
-    background-image: url('/tourizto/src/photos/bg-1.webp');
+    height: 140vh;
+    background-image: url('../../photos/bg-1.webp');
+    background-repeat: no-repeat;
+    background-size:100% 100vh  ;
+    /* background-size: contain; */
+    /* background-position: center center; */
+    /* background-size: cover; */
 }
