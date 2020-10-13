@@ -1,11 +1,14 @@
 import React from 'react';
 import './header.styles.css';
+import logo from '../../photos/logo.webp';
 export const Header = () => (
-  <nav className="navbar navbar-expand-md navbar-light bg-light fix-top" >
-    <a className="navbar-brand" href >
-    <span className="material-icons icon-1">room_service</span>
-    </a>
-    
+  <nav className="navbar navbar-expand-md navbar-light fix-top">
+    <div>
+      <a className="navbar-brand" href>
+        <img src={logo} alt="logo" />
+      </a>
+    </div>
+
     <button
       className="navbar-toggler"
       type="button"
@@ -17,31 +20,36 @@ export const Header = () => (
     >
       <span className="navbar-toggler-icon"></span>
     </button>
-    <div className="collapse navbar-collapse right" id="navbarNav">
+    <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
         <li className="nav-item active">
-          <a className="nav-link" href="#head">
-            Home 
+          <a className="nav-link" href="/">
+            HOME
           </a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="#about">
-            About
+          <a className="nav-link" href="/">
+            TOURS
           </a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="#gallery">
-            Gallery
+          <a className="nav-link" href="/">
+            ABOUT
           </a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="#recipes">
-            Recipes
+          <a className="nav-link" href="/">
+            GALLERY
           </a>
         </li>
         <li className="nav-item active">
-          <a className="nav-link" href="#contact">
-            Contact
+          <a className="nav-link" href="/">
+            BLOG
+          </a>
+        </li>
+        <li className="nav-item active">
+          <a className="nav-link" href="/">
+            CONTACTS
           </a>
         </li>
       </ul>
