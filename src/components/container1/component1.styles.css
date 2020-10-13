@@ -1,9 +1,62 @@
-.con1{
-    height: 140vh;
-    background-image: url('../../photos/bg-1.webp');
-    background-repeat: no-repeat;
-    background-size:100% 100vh  ;
-    /* background-size: contain; */
-    /* background-position: center center; */
-    /* background-size: cover; */
+.con1 {
+  height: 100vh;
+  background-image: url('../../photos/bg-1.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
 }
+
+.input-search{
+    width: 100%;
+    display: flex;
+    /* border-radius: 30px; */
+    justify-content: center;
+    font-size: 12px;
+    padding: 11px 35px;
+
+}
+.con1 input{
+    padding: 8px 15px;
+    width: 30%;
+    border:none;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    outline-color: none !important;
+    outline-style: none !important;
+    outline-width: 0px !important;
+   
+}
+
+
+.con1 input:hover{
+    outline-color: none !important;
+    outline-style: none !important;
+    outline-width: 0px !important;
+}
+
+.con1 button{
+    border:none;
+    padding: 0px;
+    margin: 0px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    width: 15%;
+    outline-color: none !important;
+    outline-style: none !important;
+    outline-width: 0px !important;
+}
+/* 
+@media only screen and (max-width: 600px) {
+  .App {
+    background-color: rgb(6, 39, 49);
+    
+    background-size: contain; 
+   
+   
+  }
+} */
