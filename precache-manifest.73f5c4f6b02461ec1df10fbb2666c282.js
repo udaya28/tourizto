@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6aaaf2b9be3549c317ed419a7fc1d660",
+    "revision": "82f082ba73bbc0161add444a7370f1d3",
     "url": "/tourizto/index.html"
   },
   {
-    "revision": "a5bb08573f0730170705",
+    "revision": "a2ef67ddcf298edfa361",
     "url": "/tourizto/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "b68bc5ca7e0cb0fe1324",
-    "url": "/tourizto/static/css/main.41586f7a.chunk.css"
+    "revision": "aa1f12bb37fffecd3b02",
+    "url": "/tourizto/static/css/main.066a4768.chunk.css"
   },
   {
-    "revision": "a5bb08573f0730170705",
-    "url": "/tourizto/static/js/2.ea429103.chunk.js"
+    "revision": "a2ef67ddcf298edfa361",
+    "url": "/tourizto/static/js/2.1b0c5a94.chunk.js"
   },
   {
     "revision": "d81c6c91afd2bb4bf8caccddf0472235",
-    "url": "/tourizto/static/js/2.ea429103.chunk.js.LICENSE.txt"
+    "url": "/tourizto/static/js/2.1b0c5a94.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b68bc5ca7e0cb0fe1324",
-    "url": "/tourizto/static/js/main.1cd76c60.chunk.js"
+    "revision": "aa1f12bb37fffecd3b02",
+    "url": "/tourizto/static/js/main.255bd338.chunk.js"
   },
   {
     "revision": "e5f53c9b0e7967de0d47",
