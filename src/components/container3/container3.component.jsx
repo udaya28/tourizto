@@ -16,7 +16,9 @@ export const Container3 = () => {
             </div>
             <div className="con3-bg">
                 <h2>Fastest Way to Compare and Book<br/> over 450 Cheap Flights</h2>
+                <div className="btn1">
                 <button>FIND YOUR FLIGHT</button>
+                    </div> 
             </div>
         </div>
     )
