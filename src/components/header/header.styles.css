@@ -13,6 +13,13 @@ nav{
   font-weight: 900;
   background-color:none;
   padding: 8px 16px !important;
+  
+}
+.dark{
+  background-color: black;
+}
+.light{
+  background-color: none;
 }
 
 ul{

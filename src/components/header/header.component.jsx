@@ -1,10 +1,10 @@
 import React from 'react';
 import './header.styles.css';
 import logo from '../../photos/logo.webp';
-export const Header = () => (
-  <nav className="navbar navbar-expand-md navbar-light fix-top">
+export const Header = ({clsName}) => (
+  <nav className={clsName}>
     <div>
-      <a className="navbar-brand" href>
+      <a className="navbar-brand" href="/">
         <img src={logo} alt="logo" />
       </a>
     </div>
