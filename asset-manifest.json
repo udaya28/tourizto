@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tourizto/static/css/main.066a4768.chunk.css",
-    "main.js": "/tourizto/static/js/main.255bd338.chunk.js",
-    "main.js.map": "/tourizto/static/js/main.255bd338.chunk.js.map",
+    "main.js": "/tourizto/static/js/main.be55f096.chunk.js",
+    "main.js.map": "/tourizto/static/js/main.be55f096.chunk.js.map",
     "runtime-main.js": "/tourizto/static/js/runtime-main.cf5ff57a.js",
     "runtime-main.js.map": "/tourizto/static/js/runtime-main.cf5ff57a.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/tourizto/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.1b0c5a94.chunk.js": "/tourizto/static/js/2.1b0c5a94.chunk.js",
     "static/js/2.1b0c5a94.chunk.js.map": "/tourizto/static/js/2.1b0c5a94.chunk.js.map",
     "index.html": "/tourizto/index.html",
-    "precache-manifest.73f5c4f6b02461ec1df10fbb2666c282.js": "/tourizto/precache-manifest.73f5c4f6b02461ec1df10fbb2666c282.js",
+    "precache-manifest.0f50b75a6781ab9e50683c4f448b03ed.js": "/tourizto/precache-manifest.0f50b75a6781ab9e50683c4f448b03ed.js",
     "service-worker.js": "/tourizto/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/tourizto/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.066a4768.chunk.css.map": "/tourizto/static/css/main.066a4768.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.1b0c5a94.chunk.js",
     "static/css/main.066a4768.chunk.css",
-    "static/js/main.255bd338.chunk.js"
+    "static/js/main.be55f096.chunk.js"
   ]
 }
