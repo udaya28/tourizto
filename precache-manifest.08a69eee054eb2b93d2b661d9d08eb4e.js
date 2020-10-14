@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "561c9e053d687fb303574566ae9f1f33",
+    "revision": "6aaaf2b9be3549c317ed419a7fc1d660",
     "url": "/tourizto/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tourizto/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "72afece4256c40c4372a",
-    "url": "/tourizto/static/css/main.cb95dd86.chunk.css"
+    "revision": "b68bc5ca7e0cb0fe1324",
+    "url": "/tourizto/static/css/main.41586f7a.chunk.css"
   },
   {
     "revision": "a5bb08573f0730170705",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tourizto/static/js/2.ea429103.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "72afece4256c40c4372a",
+    "revision": "b68bc5ca7e0cb0fe1324",
     "url": "/tourizto/static/js/main.1cd76c60.chunk.js"
   },
   {
