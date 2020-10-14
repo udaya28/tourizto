@@ -1,0 +1,45 @@
+.con3{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column ;
+
+
+}
+
+.icon-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+}
+.con3-bg{
+    
+
+    background-image: url('../../photos/bg-3.webp');
+    
+    height: 60vh;
+    width: 100%;
+    background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column ;
+  /* background-position: center center; */
+}
+.con3-bg h2{
+    color: #FFFFFF;
+    font-family: "Lato", Sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 1.3em;
+    letter-spacing: 0px;
+    /* margin-right: 200px; */
+    text-align: right;
+}
+.con3-bg button{
+
+}
