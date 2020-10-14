@@ -1,28 +1,33 @@
-.icon-card{
-    width: 200px;
-    height: 120px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column ;
-    background-color: rgb(255, 255, 255);
-
+.icon-card {
+  width: 200px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(255, 255, 255);
 }
 
-.icon-card h2{
-    font-weight: 600;
-    color: #222;
-    font-size: 26px;
-    margin: 0px;
+.icon-card h2 {
+  font-weight: 600;
+  color: #222;
+  font-size: 26px;
+  margin: 0px;
 }
-.icon-card p{
-    color: #888888;
-    font-size: 12px;
-    font-weight: 400;
-    font-style: italic;
+.icon-card p {
+  color: #888888;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: italic;
 }
-.icon-card img{
-    width: 40px;
-    height: 45px;
-    margin-bottom: 10px;
+.icon-card img {
+  width: 40px;
+  height: 45px;
+  margin-bottom: 10px;
+}
+
+.icon-card:hover {
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+  transform: scale(1.05);
 }
