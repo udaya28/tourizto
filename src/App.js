@@ -13,18 +13,22 @@ class App extends React.Component {
     };
   }
   componentDidMount() {
-    window.addEventListener('scroll', this.handleScroll,true);
+    window.addEventListener('scroll', this.handleScroll, true);
   }
   componentWillUnmount() {
-    window.removeEventListener('scroll', this.handleScroll,true);
+    window.removeEventListener('scroll', this.handleScroll, true);
   }
-  handleScroll=(event) =>{
-    if(document.documentElement.scrollTop > 15){
-      this.setState({ clsName: 'navbar navbar-expand-md navbar-light fix-top dark'})
-    }else{
-      this.setState({ clsName: 'navbar navbar-expand-md navbar-light fix-top'})
+  handleScroll = (event) => {
+    if (document.documentElement.scrollTop > 15) {
+      this.setState({
+        clsName: 'navbar navbar-expand-md navbar-light fix-top dark',
+      });
+    } else {
+      this.setState({
+        clsName: 'navbar navbar-expand-md navbar-light fix-top',
+      });
     }
-  }
+  };
   render() {
     return (
       <div className="App">

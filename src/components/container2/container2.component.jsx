@@ -1,7 +1,7 @@
 import React from 'react';
 import './container2.styles.css';
-import {Card } from '../card/card.component'
-import volume from '../../photos/volume.svg'
+import { Card } from '../card/card.component';
+import volume from '../../photos/volume.svg';
 
 import diamond from '../../photos/diamond.svg';
 import medal from '../../photos/medal.svg';
@@ -13,14 +13,36 @@ export const Container2 = () => {
     <div className="con2">
       <h2>Why Travellino</h2>
       <div className="card-list">
-          <Card logo={volume} text="We can provide up to 3 experienced travel specialists who fit best." head="PERSONALIZED MATCHING"/>
-          <Card logo={medal} text="With Travellino, you’ll find a perfect destination among hundreds available." head="WIDE VARIETY OF DESTINATIONS"/>
-          <Card logo={thumb} text="Our high level of service is officially recognized by thousands of clients." head="HIGHLY QUALIFIED SERVICE"/>
-          <Card logo={customer} text="Our travel agents are always there to support you during your trip." head="24/7 SUPPORT"/>
-          <Card logo={diamond} text="We pick the hotels with the utmost reputation and positive reviews." head="HANDPICKED HOTELS"/>
-          <Card logo={price} text="We guarantee you’ll get top-notch comfort at an affordable price." head="BEST PRICE GUARANTEE"/>
-          
-
+        <Card
+          logo={volume}
+          text="We can provide up to 3 experienced travel specialists who fit best."
+          head="PERSONALIZED MATCHING"
+        />
+        <Card
+          logo={medal}
+          text="With Travellino, you’ll find a perfect destination among hundreds available."
+          head="WIDE VARIETY OF DESTINATIONS"
+        />
+        <Card
+          logo={thumb}
+          text="Our high level of service is officially recognized by thousands of clients."
+          head="HIGHLY QUALIFIED SERVICE"
+        />
+        <Card
+          logo={customer}
+          text="Our travel agents are always there to support you during your trip."
+          head="24/7 SUPPORT"
+        />
+        <Card
+          logo={diamond}
+          text="We pick the hotels with the utmost reputation and positive reviews."
+          head="HANDPICKED HOTELS"
+        />
+        <Card
+          logo={price}
+          text="We guarantee you’ll get top-notch comfort at an affordable price."
+          head="BEST PRICE GUARANTEE"
+        />
       </div>
     </div>
   );
